@@ -2,8 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "chudil-thea54.workers.dev"; // Ganti dengan domain utama kalian
-const serviceName = "
-chud"; // Ganti dengan nama workers kalian
+const serviceName = "chud"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // chudil.thea54@gmail.com
 const accountID = ""; // 1021d3836e57b445769961db026cd76a (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
